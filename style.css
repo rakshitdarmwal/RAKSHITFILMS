@@ -52,6 +52,7 @@ ul li.active a{
 .title h1{
 	color: #fff;
 	font-size:70px;
+	
 }
 .button{
 	position: absolute;
@@ -71,6 +72,11 @@ ul li.active a{
 	background-color: #fff;
 	color: #000;
 }
+h6{
+	color:#fff;
+	margin-top:5px;
+	font-size:25px;
 	
+}	
 	
 	
